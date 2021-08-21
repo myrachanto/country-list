@@ -1,24 +1,8 @@
-# country
+## I hope you have node and npm install on your computer adn its the latest version
 
-## Project setup
-```
-npm install
-```
+Copy this comand and execute it on you cmd on your project folder git clone https://github.com/myrachanto/country-list.git
+ 
+ navigate to the root folder and run the following commands
+1. npm run install 
+2. npm run serve
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
