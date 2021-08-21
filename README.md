@@ -1,4 +1,4 @@
-## I hope you have node and npm install on your computer adn its the latest version
+## I hope you have node and npm install on your computer and its the latest version
 
 Copy this comand and execute it on you cmd on your project folder git clone https://github.com/myrachanto/country-list.git
  
